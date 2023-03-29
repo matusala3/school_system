@@ -1,3 +1,4 @@
+#discription: This is the main file of the program. It is responsible for the initialization of the database and the start of the program.
 from db_conn import DB_CONN
 from menu import Menu
 

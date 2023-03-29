@@ -1,4 +1,9 @@
+# Description: Menu class for the student management system
+#This class is responsible for displaying the menu and handling user input. and it is also responsible for calling the appropriate methods in the Student class to perform the required actions.
+
+
 from db_conn import DB_CONN
+
 
 class Menu:
     def __init__(self) -> None:
