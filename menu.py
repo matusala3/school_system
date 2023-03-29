@@ -6,6 +6,9 @@ from db_conn import DB_CONN
 
 
 class Menu:
+    # student?controller
+    # course?controller
+    # enroll?controller
     def __init__(self) -> None:
         return None
     
